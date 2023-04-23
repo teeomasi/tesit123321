@@ -1,0 +1,12 @@
+.kuva {
+height: 130vh;
+max-width: 100%;
+
+
+}
+
+.kuva-container {
+  background-color: black;
+  width: 200vh;
+  height: 200vh;
+}
